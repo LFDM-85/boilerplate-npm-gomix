@@ -1,6 +1,6 @@
 {
   "name": "fcc-learn-npm-package-json",
-	"author": "Luis Melo",
+  "author": "Luis Melo",
   "dependencies": {
     "express": "^4.14.0"
   },
@@ -10,7 +10,6 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://idontknow/todo.git"
+    "url": "https://github.com/LFDM-85/boilerplate-npm-gomix"
   }
-  
 }
